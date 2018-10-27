@@ -1,0 +1,71 @@
+[33mcommit f91466bc81161dec5b57cdc20c9d023254d009a4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:43:40 2018 -0300
+
+    Classe Worker - método income
+
+[33mcommit 88f04e9da4a7aa0ce2b65bf9b3cc2b4c919bd2de[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:32:38 2018 -0300
+
+    Classe Worker - remoção método setContracts
+
+[33mcommit 89ad8c55048a6e9a9dadebe6c88117c3fe541464[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:30:20 2018 -0300
+
+    Classe Worker - método removeContract
+
+[33mcommit c71d64a760282066c3d0bc0f345adf81cecabfee[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:27:32 2018 -0300
+
+    Classe Worker - método addContract
+
+[33mcommit 343360431b92f24a8543a60a908299230fe2ba58[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:24:44 2018 -0300
+
+    Classe Worker - Construtor, Getters and setters
+
+[33mcommit 4f0f6cb58903e786a140210a3744435adb956ea9[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:21:47 2018 -0300
+
+    Classe Worker e relacionamentos
+
+[33mcommit 1f8dd6f3a8ffcbd53a5d25caf27bd6c291beba7d[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:19:15 2018 -0300
+
+    Criada classe Worker e seus atributos
+
+[33mcommit 45828d3fb3438847ad89b8682169766e3f560ef2[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:16:01 2018 -0300
+
+    Criado enum WorkerLevel
+
+[33mcommit 4152885afba5de7206680cb78e1e100963bfa147[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:12:30 2018 -0300
+
+    Criada classe HourContract
+
+[33mcommit 42ca236630aa5c75c474a6c266f850139cca37bc[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:05:58 2018 -0300
+
+    Criada classe Department
+
+[33mcommit 3c12006ccd5a832098e203c163da1dd26984d20f[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:01:19 2018 -0300
+
+    Projeto Criado
+
+[33mcommit e7c67e99610eb065fd3efd40eb41cf6283180c9f[m
+Author: Alisson Youssf <youssfbr@gmail.com>
+Date:   Fri Oct 26 14:00:39 2018 -0300
+
+    Initial commit
